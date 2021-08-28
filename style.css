@@ -1,0 +1,16 @@
+section{
+    text-align: center;
+}
+h1{
+    font-size: 35px;
+}
+#load-user{
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+#new-user img{
+    border: 1px solid grey;
+    padding: 5px;
+    border-radius: 50%;
+}
